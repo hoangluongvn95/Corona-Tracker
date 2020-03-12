@@ -4,7 +4,7 @@
 ![](Interface.png)
 
 
-My team of data scientists uses OSEMN framework to collect, clean, explore, model, and run their own analysis. For ease of public understanding, it is presented using graphic visualizations and dashboards. 
+My team of data scientists uses OSEMN framework to collect, clean, explore, model, and run the analysis. For ease of public understanding, it is presented using graphic visualizations and dashboards. 
 
 My main task is to maintain the web-scraping tool in efforts to keep the database updated accurately using MySQL Workbench.
 
