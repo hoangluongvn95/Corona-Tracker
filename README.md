@@ -4,8 +4,8 @@
 ![](Interface.png)
 
 
-CORONATRACKER.com also aims to gather data for in-depth analysis (e.g. time series to monitor the growth, spread of the virus) and localized news (e.g. news related to Malaysia, or KL only). The platform is vital for information consolidation, and all gathered information is open to use for the public. This is a 100% open source project, all information and publishable data are available on Github as well. Everyone is welcomed to contribute through our telegram channel.  
+My team of data scientists uses OSEMN framework to collect, clean, explore, model, and run their own analysis. For ease of public understanding, it is presented using graphic visualizations and dashboards. 
 
-Our team of data scientists uses OSEMN framework to collect, clean, explore, model, and run their own analysis. For ease of public understanding, it is presented using graphic visualizations and dashboards. Through the data obtained, we hope to build machine learning models very soon.
+My main task is to maintain the web-scraping tool in efforts to keep the database updated accurately using MySQL Workbench.
 
 
